@@ -1,0 +1,22 @@
+{
+    "name": "liuyajie/testcomposer",
+    "description": "composer",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Liuyajie\\Testcomposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "liuyajie",
+            "email": "920288326@qq.com"
+        }
+    ],
+    "require": {
+		"php": ">=7.1.0",
+		"ext-pdo":"*",
+		"catfan/medoo":">=2.1.4"
+	}
+}
