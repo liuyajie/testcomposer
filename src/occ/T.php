@@ -1,6 +1,6 @@
 <?php
 
-namespace Liuyajie\Testcomposer\occ;
+namespace Iuu\occ;
 
 class T
 {

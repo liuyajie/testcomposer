@@ -1,12 +1,15 @@
 {
-    "name": "liuyajie/testcomposer",
-    "description": "composer",
+    "name": "lyj/studylaravel",
+    "description": "how to public a package use composer",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Liuyajie\\Testcomposer\\": "src/"
-        }
+            "Iuu\\": "src/",
+            "": ["src/no"]
+        },
+        "files": ["src/funcs/utl.php","src/funcs/gg.php"],
+        "classmap": ["src/clap"]
     },
     "authors": [
         {
