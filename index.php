@@ -17,3 +17,5 @@ Study::t();
 get_time();
 
 (new ClaS())->te();
+
+\Iuud\F_D::ddee();

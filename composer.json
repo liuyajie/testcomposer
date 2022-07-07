@@ -8,6 +8,9 @@
             "Iuu\\": "src/",
             "": ["src/no"]
         },
+        "psr-0": {
+          "Iuud\\": "src/spr0a"
+        },
         "files": ["src/funcs/utl.php","src/funcs/gg.php"],
         "classmap": ["src/clap"]
     },
